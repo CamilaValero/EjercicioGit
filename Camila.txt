@@ -1,0 +1,2 @@
+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
+git remote add origin https://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@github.com/CamilaValero/EjercicioGit.git
